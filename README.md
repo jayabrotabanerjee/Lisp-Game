@@ -18,12 +18,12 @@ In Cosmic Lisp Explorer, you command a small spacecraft exploring the uncharted 
 
 This game is primarily built with Common Lisp, with some additional technologies:
 
-- **Core Game Logic**: Common Lisp (SBCL 2.3.0+)[1]
-- **Graphics Engine**: cl-raylib for enhanced visuals[1]
-- **Terminal UI**: cl-charms (ncurses wrapper)[2]
-- **Sound Effects**: SDL2 audio bindings[1]
-- **Build System**: ASDF with Quicklisp[3]
-- **Optional JavaScript UI**: Parenscript for web export[1][3]
+- **Core Game Logic**: Common Lisp (SBCL 2.3.0+)
+- **Graphics Engine**: cl-raylib for enhanced visuals
+- **Terminal UI**: cl-charms (ncurses wrapper)
+- **Sound Effects**: SDL2 audio bindings
+- **Build System**: ASDF with Quicklisp
+- **Optional JavaScript UI**: Parenscript for web export
 
 ## Installation
 
@@ -142,7 +142,7 @@ cosmic-lisp-explorer/
 
 ## Development
 
-This project was created for the Spring Lisp Game Jam 2025. It uses a combination of different libraries and frameworks from the Common Lisp ecosystem[1][2].
+This project was created for the Spring Lisp Game Jam 2025. It uses a combination of different libraries and frameworks from the Common Lisp ecosystem.
 
 ### Key Components
 
@@ -182,8 +182,8 @@ This project is licensed under the GNU GPL v3.0 License - see the LICENSE file f
 
 ## Acknowledgments
 
-- Inspired by games showcased in previous Lisp Game Jams[1]
-- Built with libraries from the Common Lisp games ecosystem[2]
+- Inspired by games showcased in previous Lisp Game Jams
+- Built with libraries from the Common Lisp games ecosystem
 - Special thanks to the Common Lisp community for their support and feedback
 
 ## Contributing
