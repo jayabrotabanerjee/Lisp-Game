@@ -6,7 +6,6 @@ Cosmic Lisp Explorer is a 2D roguelike space exploration game where you navigate
 
 In Cosmic Lisp Explorer, you command a small spacecraft exploring the uncharted regions of space. Each playthrough generates a unique galaxy with different star systems, planets, and challenges. The game features turn-based movement and combat with permadeath mechanics, making each decision critical to your survival.
 
-![Game Screenshot Placeholder]
 
 **Key Features:**
 - Procedurally generated galaxies with unique star systems
